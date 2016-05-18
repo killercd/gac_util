@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GacUtil", "GacUtil\GacUtil.csproj", "{AB9E32DB-0446-4036-8FB5-06F1DB3AB7CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB9E32DB-0446-4036-8FB5-06F1DB3AB7CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB9E32DB-0446-4036-8FB5-06F1DB3AB7CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB9E32DB-0446-4036-8FB5-06F1DB3AB7CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB9E32DB-0446-4036-8FB5-06F1DB3AB7CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://s-mi-tfs2012.webtech.wki:8080/tfs/webtechcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = GacUtil\\GacUtil.csproj
+		SccProjectName1 = GacUtil
+		SccLocalPath1 = GacUtil
+	EndGlobalSection
+EndGlobal
